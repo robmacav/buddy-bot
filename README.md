@@ -1,10 +1,11 @@
 # BUDDY BOT
 O buddy-bot é um bot automatizado para WhatsApp, desenvolvido com WPPConnect e Node.js, criado para gerenciar automaticamente listas de presença em grupos de vôlei.
 
-**A ideia nasceu de uma necessidade real:** nos grupos de vôlei recreativo, assim que alguém publica a lista de quem vai jogar, as vagas acabam em poucos segundos.
-O buddy-bot entra em ação exatamente nesse momento — ele monitora o grupo, identifica a mensagem com a lista, e preenche automaticamente seu nome (ou dos integrantes configurados) assim que a lista é publicada.
+<p>**A ideia nasceu de uma necessidade real:** nos grupos de vôlei recreativo, assim que alguém publica a lista de quem vai jogar, as vagas acabam em poucos segundos.</p>
 
-Se todas as vagas já estiverem ocupadas, o bot adiciona os nomes automaticamente na seção de “lista de espera integrantes do grupo”, mantendo o formato da mensagem original e garantindo que ninguém fique de fora.
+<p>O buddy-bot entra em ação exatamente nesse momento — ele monitora o grupo, identifica a mensagem com a lista, e preenche automaticamente seu nome (ou dos integrantes configurados) assim que a lista é publicada.</p>
+
+<p>Se todas as vagas já estiverem ocupadas, o bot adiciona os nomes automaticamente na seção de “lista de espera integrantes do grupo”, mantendo o formato da mensagem original e garantindo que ninguém fique de fora.</p>
 
 ### Recursos
 - Conexão automática via WPPConnect (com suporte a QR Code).
